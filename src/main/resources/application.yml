@@ -1,3 +1,5 @@
 info:
   build:
     version: @project.version@
+    
+security:  basic:    enabled: false    
